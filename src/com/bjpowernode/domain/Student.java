@@ -1,5 +1,8 @@
 package com.bjpowernode.domain;
 
 public class Student {
-    String id;
+    private String id;
+    privat String name;
+    
+
 }
